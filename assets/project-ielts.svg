@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img"><title>IELTS NewsSync</title><defs><linearGradient id="b" x2="1"><stop stop-color="#111b28"/><stop offset="1" stop-color="#152133"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="218" rx="18" fill="url(#b)" stroke="#2a3b4c"/><path d="M1 33V187" stroke="#90efce" stroke-width="3"/>
+<text x="33" y="38" font-family="Consolas,monospace" font-size="13" letter-spacing="2" fill="#90efce">01 / LANGUAGE × AI</text>
+<text x="31" y="85" font-family="Segoe UI,Arial,sans-serif" font-size="36" font-weight="700" fill="#eef5fa">IELTS NewsSync</text>
+<text x="33" y="122" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#b6c5d5">News becomes a learning experience.</text>
+<text x="33" y="151" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#b6c5d5">Bilingual reading, AI tutoring & spaced repetition.</text>
+<text x="33" y="190" font-family="Consolas,monospace" font-size="15" fill="#90efce">NEXT.JS  ·  TYPESCRIPT  ·  SUPABASE  ·  LLM</text>
+<g transform="translate(1000 111)"><rect x="-76" y="-68" width="143" height="131" rx="13" fill="#173431" stroke="#3b786b"/><path d="M-51-38H35M-51-17H14M-51 4H35M-51 25H-7" stroke="#89dbc4" stroke-width="7" stroke-linecap="round"/><rect x="0" y="3" width="80" height="52" rx="13" fill="#21324d" stroke="#8294cb"/><text x="14" y="38" fill="#b5c2ff" font-size="26" font-family="Segoe UI,Arial" font-weight="700">AI</text></g>
+<path d="M1145 41h18v18m0-18-22 22" stroke="#90efce" stroke-width="2.5" fill="none" stroke-linecap="round"/></svg>

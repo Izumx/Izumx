@@ -1,127 +1,44 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Izumx — building things that help people learn and explore" />
+  <img src="./assets/hero-ai.svg" width="100%" alt="Izumx — Eskendir, AI/ML Engineer. Applied AI, LLM applications and EdTech." />
 </p>
 
 <p align="center">
-  <a href="#selected-projects">Selected projects</a> &nbsp; / &nbsp;
-  <a href="#toolbox">Toolbox</a> &nbsp; / &nbsp;
-  <a href="https://github.com/Izumx?tab=repositories">All repositories ↗</a>
+  <a href="#featured-work"><b>Featured work</b></a> &nbsp; · &nbsp;
+  <a href="#tech-stack"><b>Tech stack</b></a> &nbsp; · &nbsp;
+  <a href="#github-stats"><b>GitHub stats</b></a> &nbsp; · &nbsp;
+  <a href="https://github.com/Izumx?tab=repositories"><b>All repositories ↗</b></a>
 </p>
 
-<br />
+### Hey, I'm Eskendir 👋
 
-### Hey, I'm Eskendir — Izumx.
+**AI/ML Engineer** based in Kazakhstan. I build AI-powered learning tools, LLM applications and interactive experiences — connecting models, APIs and thoughtful interfaces.
 
-I build web apps, interactive 3D experiences and tools with AI. Based in Kazakhstan, I enjoy turning complex ideas into interfaces people can explore, understand and use.
+My focus: **applied AI · language learning · educational technology**.
 
-**My projects connect education, technology and everyday problems.**
+## Featured work
 
-<br />
+<a href="https://github.com/Izumx/AI_NEWSSYNC"><img src="./assets/project-ielts.svg" width="100%" alt="IELTS NewsSync — bilingual IELTS reading, AI tutoring, quizzes and spaced repetition. Next.js, TypeScript, Supabase and LLM APIs. Open repository." /></a>
 
-## Selected projects
+<a href="https://github.com/Izumx/OylaTap"><img src="./assets/project-oylatap.svg" width="100%" alt="OylaTap — short educational videos, creator tools, quizzes and classroom features. React, TypeScript, Express and PostgreSQL. Open repository." /></a>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/Izumx/EDULAB-3D"><img src="./assets/project-edulab.svg" width="100%" alt="EduLab 3D — interactive school science labs with hand tracking. Three.js, React Three Fiber and MediaPipe. Open repository." /></a>
 
-### 01 &nbsp; OylaTap
-**Learn through short videos.**
+## Tech stack
 
-An educational video platform with creator tools, quizzes and classroom features in Russian and Kazakh.
+<img src="./assets/stack.svg" width="100%" alt="AI/ML: Python, LLM APIs, CatBoost, SHAP. Product: TypeScript, React, Next.js, FastAPI. Data and interaction: PostgreSQL, Express, Three.js, MediaPipe." />
 
-<sub>React · TypeScript · Express · PostgreSQL</sub>
+## GitHub stats
 
-<br /><br />
-<a href="https://github.com/Izumx/OylaTap"><b>Explore OylaTap ↗</b></a>
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Izumx&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=90efce&amp;icon_color=b4a5ff&amp;text_color=c9d1d9" alt="Izumx's public GitHub statistics" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Izumx&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=90efce&amp;text_color=c9d1d9&amp;langs_count=6" alt="Most used languages across Izumx's public repositories" />
+</p>
 
-</td>
-<td width="50%" valign="top">
-
-### 02 &nbsp; EduLab 3D
-**Make science tangible.**
-
-Interactive 3D school laboratories with hand tracking, from building molecules to exploring the Solar System.
-
-<sub>React · Three.js · React Three Fiber · MediaPipe</sub>
-
-<br /><br />
-<a href="https://github.com/Izumx/EDULAB-3D"><b>Explore EduLab ↗</b></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 03 &nbsp; ЖерКөз / ZerKoz
-**Connect maps and communities.**
-
-Land monitoring dashboard and citizen Telegram bot, with a shared workflow for reports and inspections.
-
-<sub>Maps · Telegram · Satellite data · RU / KK</sub>
-
-<br /><br />
-<a href="https://github.com/Izumx/ZerKoz"><b>Explore ZerKoz ↗</b></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 04 &nbsp; TazaTender
-**Turn data into explainable signals.**
-
-A public procurement risk analysis project that combines machine learning, relationship graphs and text analysis.
-
-<sub>Python · FastAPI · React · CatBoost · SHAP</sub>
-
-<br /><br />
-<a href="https://github.com/Izumx/TazaTender"><b>Explore TazaTender ↗</b></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 05 &nbsp; IELTS NewsSync
-**Read the news. Build your English.**
-
-A bilingual IELTS reader with vocabulary highlights, an AI tutor, quizzes and spaced repetition flashcards.
-
-<sub>Next.js · TypeScript · Tailwind CSS · Supabase</sub>
-
-<br /><br />
-<a href="https://github.com/Izumx/AI_NEWSSYNC"><b>Explore NewsSync ↗</b></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 06 &nbsp; OrbitClean
-**Explore the space around us.**
-
-A browser 3D project about orbital debris, combining satellite data with educational gameplay. In development.
-
-<sub>React · Three.js · TypeScript · satellite.js</sub>
-
-<br /><br />
-<a href="https://github.com/Izumx/Orbit-Cleaner-Game"><b>Explore OrbitClean ↗</b></a>
-
-</td>
-</tr>
-</table>
-
-<br />
-
-## Toolbox
-
-**Interfaces** &nbsp; `TypeScript` `JavaScript` `React` `Next.js` `Tailwind CSS`
-
-**APIs & data** &nbsp; `Python` `FastAPI` `Express` `PostgreSQL`
-
-**Interactive & intelligent** &nbsp; `Three.js` `React Three Fiber` `MediaPipe` `AI integrations`
-
-<br />
+<p align="center"><sub>Public GitHub activity · Language breakdown reflects repository code.</sub></p>
 
 ---
 
 <p align="center">
-  <sub>Curious about a project? Open its repository and take a look around.</sub><br />
-  <a href="https://github.com/Izumx?tab=repositories"><b>See what I'm building ↗</b></a>
+  <b>From an idea to something people can use.</b><br />
+  <a href="https://github.com/Izumx?tab=repositories">Explore my work ↗</a>
 </p>
