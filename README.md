@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero-ai.svg" width="100%" alt="Izumx — Eskendir, AI/ML Engineer. Applied AI, LLM applications and EdTech." />
+  <img src="https://raw.githubusercontent.com/Izumx/Izumx/2b25d328e38fb2524fe17b5474875b1b3ced3a03/assets/hero-ai.svg" width="100%" alt="Izumx — Eskendir, AI/ML Engineer. Applied AI, LLM applications and EdTech." />
 </p>
 
 <p align="center">
@@ -17,15 +17,15 @@ My focus: **applied AI · language learning · educational technology**.
 
 ## Featured work
 
-<a href="https://github.com/Izumx/AI_NEWSSYNC"><img src="./assets/project-ielts.svg" width="100%" alt="IELTS NewsSync — bilingual IELTS reading, AI tutoring, quizzes and spaced repetition. Next.js, TypeScript, Supabase and LLM APIs. Open repository." /></a>
+<a href="https://github.com/Izumx/AI_NEWSSYNC"><img src="https://raw.githubusercontent.com/Izumx/Izumx/2b25d328e38fb2524fe17b5474875b1b3ced3a03/assets/project-ielts.svg" width="100%" alt="IELTS NewsSync — bilingual IELTS reading, AI tutoring, quizzes and spaced repetition. Next.js, TypeScript, Supabase and LLM APIs. Open repository." /></a>
 
-<a href="https://github.com/Izumx/OylaTap"><img src="./assets/project-oylatap.svg" width="100%" alt="OylaTap — short educational videos, creator tools, quizzes and classroom features. React, TypeScript, Express and PostgreSQL. Open repository." /></a>
+<a href="https://github.com/Izumx/OylaTap"><img src="https://raw.githubusercontent.com/Izumx/Izumx/2b25d328e38fb2524fe17b5474875b1b3ced3a03/assets/project-oylatap.svg" width="100%" alt="OylaTap — short educational videos, creator tools, quizzes and classroom features. React, TypeScript, Express and PostgreSQL. Open repository." /></a>
 
-<a href="https://github.com/Izumx/EDULAB-3D"><img src="./assets/project-edulab.svg" width="100%" alt="EduLab 3D — interactive school science labs with hand tracking. Three.js, React Three Fiber and MediaPipe. Open repository." /></a>
+<a href="https://github.com/Izumx/EDULAB-3D"><img src="https://raw.githubusercontent.com/Izumx/Izumx/2b25d328e38fb2524fe17b5474875b1b3ced3a03/assets/project-edulab.svg" width="100%" alt="EduLab 3D — interactive school science labs with hand tracking. Three.js, React Three Fiber and MediaPipe. Open repository." /></a>
 
 ## Tech stack
 
-<img src="./assets/stack.svg" width="100%" alt="AI/ML: Python, LLM APIs, CatBoost, SHAP. Product: TypeScript, React, Next.js, FastAPI. Data and interaction: PostgreSQL, Express, Three.js, MediaPipe." />
+<img src="https://raw.githubusercontent.com/Izumx/Izumx/2b25d328e38fb2524fe17b5474875b1b3ced3a03/assets/stack.svg" width="100%" alt="AI/ML: Python, LLM APIs, CatBoost, SHAP. Product: TypeScript, React, Next.js, FastAPI. Data and interaction: PostgreSQL, Express, Three.js, MediaPipe." />
 
 ## GitHub stats
 
